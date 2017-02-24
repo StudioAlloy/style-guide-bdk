@@ -1,0 +1,36 @@
+# primary, secondary, tertiary, quaternary, quinary, senary, septenary, octonary, nonary, and denary
+- name: primary
+  color: FA2
+  kind: primary
+
+- name: secondary
+  color: 9E2433
+  kind: primary
+# 
+# - name: tertiary
+#   color: D6969E
+#   kind: primary
+#
+# - name: quaternary
+#   color: FFD692
+#   kind: primary
+#
+# - name: senary
+#   color: FBCDA3
+#   kind: primary
+#
+# - name: septenary
+#   color: EAC615
+#   kind: primary
+
+- name: dark
+  color: "000"
+  kind: basic
+
+- name: light
+  color: 9AA3A9
+  kind: basic
+
+- name: alt
+  color: fff
+  kind: basic
