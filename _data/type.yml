@@ -10,59 +10,59 @@
   color: dark
   kind: basic
   style: > #
-    font-size: 18px;
+    font-size: 17px;
     line-height: 28px;
     font-weight: 400;
     margin-top: 0;
     margin-bottom: 30px;
 - name: h1
-  font-family: tertiary
+  font-family: primary
   color: dark
   kind: header
   style: > #
-    font-size: 60px;
-    line-height: 60px;
+    font-size: 54px;
+    line-height: 68px;
     font-weight: 700;
     margin-top: 0;
     margin-bottom: 30px;
 - name: h2
-  font-family: secondary
+  font-family: primary
   color: dark
   kind: header
   style: > #
-    font-size: 60px;
-    line-height: 66px;
-    font-weight: 400;
+    font-size: 30px;
+    line-height: 41px;
+    font-weight: 700;
     margin-top: 0;
     margin-bottom: 30px;
-    text-transform: uppercase;
 - name: h3
-  font-family: tertiary
+  font-family: primary
   color: dark
   kind: header
   style: > #
-    font-size: 48px;
-    line-height: 48px;
+    font-size: 17px;
+    line-height: 28px;
     font-weight: 700;
     margin-top: 0;
     margin-bottom: 30px;
 - name: h4
-  font-family: tertiary
+  font-family: primary
   color: dark
   kind: header
   style: > #
-    font-size: 36px;
-    line-height: 36px;
-    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
     margin-top: 0;
+    font-style: italic;
     margin-bottom: 30px;
 - name: h5
   font-family: secondary
   color: primary
   kind: header
   style: > #
-    font-size: 36px;
-    line-height: 36px;
+    font-size: 14px;
+    line-height: 21px;
     font-weight: 700;
     margin-top: 0;
     margin-bottom: 30px;
@@ -82,6 +82,6 @@
   color: dark
   kind: basic
   style: > #
-    font-size: 2rem;
-    line-height: 2rem;
-    font-weight: 400;
+    font-size: 17px;
+    line-height: 28px;
+    font-weight: 700;
